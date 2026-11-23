@@ -1,3 +1,5 @@
+    // 1st Problem 
+    
     const array = [7, 5, 6, 3, 4, 5, 11, 2];
     const tar = 9;
     let i = 0;
@@ -14,4 +16,4 @@
     }
 
     const main = final(array, tar)
-    console.log(main)
+     console.log(main) 
